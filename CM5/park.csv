@@ -1,4 +1,4 @@
-﻿id,nom,ylat,xlong,coord_x,coord_y,date_comptage,nb_places,nb_places_disponibles,nb_pr,nb_pr_dispo,nb_pmr,nb_pmr_dispo,nb_voitures_electriques,nb_voitures_electriques_dispo,nb_velo,nb_velo_dispo,nb_2r_el,nb_2r_el_dispo,nb_autopartage,nb_autopartage_dispo,nb_2_rm,nb_2_rm_dispo
+id,nom,ylat,xlong,coord_x,coord_y,date_comptage,nb_places,nb_places_disponibles,nb_pr,nb_pr_dispo,nb_pmr,nb_pmr_dispo,nb_voitures_electriques,nb_voitures_electriques_dispo,nb_velo,nb_velo_dispo,nb_2r_el,nb_2r_el_dispo,nb_autopartage,nb_autopartage_dispo,nb_2_rm,nb_2_rm_dispo
 17300-P-003,Parking en enclos de l'Encan,46.151382,-1.1498269,379863.5735076,6569699.1510457,2023-11-29 14:30:04.0,399,297,0,0,8,0,0,0,0,0,0,0,0,0,0,0
 17300-P-004,Parking en enclos Vieux-Port Ouest,46.1555279,-1.1565183,379372.0687783,6570186.0800783,2023-11-29 14:30:04.0,375,241,0,0,6,0,0,0,0,0,0,0,0,0,0,0
 17300-P-007,Parking souterrain de Verdun,46.1625088,-1.1531777,379670.2771008,6570946.6803618,2023-11-29 14:30:00.0,450,103,0,0,12,0,7,0,0,0,0,0,0,0,0,0
